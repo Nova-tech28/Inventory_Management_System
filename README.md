@@ -11,7 +11,7 @@ The success criteria depend on
 
 * Ease of use when it comes to updating inventory levels and placing orders.
 
-# KEY FEATURES :
+## KEY FEATURES :
 - ADMIN
 - ACCOUNT MANAGEMENT
 - PRODUCT MANAGEMENT
@@ -23,4 +23,4 @@ The success criteria depend on
 - COMPANY ASSETS
 - REPORT
 
-# Work in progress, update will be made soon.
+## Work in progress, update will be made soon.
